@@ -1,6 +1,6 @@
 ### Hi there, I'm Jayanti!👋
 
-I'm a 3rd year Computer Engineering student at the University of Waterloo! I enjoy crafting product/tool/web experiences that prioritize functionality and simplicity, aiming for a delightful user experience.
+I'm a 4th year Computer Engineering student at the University of Waterloo! I enjoy crafting product/tool/web experiences that prioritize functionality and simplicity, aiming for a delightful user experience.
 <!--
 **JayantiU/JayantiU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
